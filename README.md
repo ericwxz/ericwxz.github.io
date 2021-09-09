@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Some samples of my work!
 
-You can use the [editor on GitHub](https://github.com/ericwxz/ericwxz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a senior at Yale University studying computer science. The rest of my courseload has been dedicated mostly to music and economics, and I manage the Davenport Pops Orchestra chamber group program on the side. A number of smaller or older projects are not included on this page for the benefit of others, in order for incomplete or otherwise under-par works to avoid the light of day.
+Current GPA (as of 9/2021): 3.77
+Expected graduation: May 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Graphics
+The final project in Computer Graphics, taught by Professor Ted Kim, involved building a raytracing engine in C++ that implemented a number of distributed effects. Our submission included both the code and a ten-second animation that displayed those effects. I ended up implementing glossy reflections and motion blur, among others.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check out the animation: https://youtu.be/gnTYTtv8sz0 (relatively quick render)
+Check out the code: to be uploaded to github
 
-```markdown
-Syntax highlighted code block
+### Computational Intelligence for Games
+The final project in Computational Intelligence for Games, taught by Professor James Glenn, centered around using one of the techniques we had learned to develop and train an agent for a game of our choice. As a fan of Coup, I modeled a highly-simplified version of the game such that a method requiring perfect information might still be able to have some moderate success. I experimented a bit with deep q networks before shifting to implementing regular q-learning in the face of some tight deadlines.
 
-# Header 1
-## Header 2
-### Header 3
+Check out the code: https://github.com/ericwxz/Simplified-Coup-Agent 
+  - running tester.py should display the results from the trained agent, or just use the makefile
 
-- Bulleted
-- List
+### YHack 2020
+We built an app aimed centering around navigating day-to-day life through Covid-- namely, around the issue of "space." Things like, how many people can I fit into my living room while keeping people six feet apart? How far away really is six feet when I'm standing on the street, or sitting at a restaurant? I took care of the camera component, addressing the second question. This was our first experience with building an Android app, and we won a surprising number of awards for it!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ericwxz/ericwxz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Check out the submission: https://devpost.com/software/covid_resource_app
+Check out the code: https://github.com/ericwxz/Covid_Resource_App 
