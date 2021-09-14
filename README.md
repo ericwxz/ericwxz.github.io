@@ -1,6 +1,6 @@
 ## Some samples of my work!
 
-I'm a senior at Yale University studying computer science. The rest of my courseload has been dedicated mostly to music and economics, and I manage the Davenport Pops Orchestra chamber group program on the side. A number of smaller or older projects are not included on this page for the benefit of others, in order for incomplete or otherwise under-par works to avoid the light of day.
+I'm a senior at Yale University studying computer science. The rest of my courseload has been dedicated mostly to music and economics, and I manage the Davenport Pops Orchestra chamber group program on the side. 
 
 
 Current GPA (as of 9/2021): 3.77
